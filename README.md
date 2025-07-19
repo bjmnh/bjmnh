@@ -32,7 +32,7 @@ A web application built to analyze and visualize the potential impact of new leg
 
 ---
 
-### ChatInsights | ChatGPT Data Visualization Tool (Hackathon Winner)
+### ChatInsights | ChatGPT Data Visualization Tool (Hackathon)
 <img width="592" alt="Screenshot of the ChatInsights project UI" src="https://github.com/user-attachments/assets/e8a6fa8e-3c5d-4a3c-a1e3-77c32a1c2662">
 
 A full-stack application that performs sentiment and behavioral analysis on user-uploaded ChatGPT conversation data. It uses the Gemini API to generate insights and presents them through a dynamic and responsive UI.
