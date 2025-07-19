@@ -1,6 +1,6 @@
 # Hi there, I'm Benjamin Hanson 👋
 
-I love fixing bugs, learning new stacks, iterating with user feedback, and optimizing my development process with the latest technologies. As a recent Computer Science graduate, I am looking to apply my passion for hands-on building to a full-time software engineering career.
+I love tackling bugs to the ground, learning new stacks, iterating with user feedback, and optimizing my development process with the latest technologies. As a recent Computer Science graduate, I am looking to apply my passion for hands-on building to a full-time software engineering career.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
