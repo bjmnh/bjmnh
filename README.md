@@ -25,7 +25,7 @@ Currently working on freelance technical AI training studies, personal projects,
 
 Here are some projects I am proud of:
 
-## Legal-Ease | Legislative Impact Analyzer (Capstone)
+## Legal-Ese | Legislative Impact Analyzer (Capstone)
 <img width="1915" height="955" alt="Screenshot of the Legal-Ease application dashboard" src="https://github.com/user-attachments/assets/e2a09211-f135-4e36-8e85-2e17e22d9fdf" />
 
 ---
