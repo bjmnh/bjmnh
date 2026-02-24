@@ -1,6 +1,10 @@
 # Benjamin Hanson
 
-Computer Science graduate software developer with experience creating responsive full stack web applications that implement SQL/NoSQL databases, user authentication, cloud functions, API integrations (Stripe, Claude/Gemini, N8N) and security best practices across various cloud platforms (GCP, AWS, Supabase). I stay up to date with the latest news on current AI assisted coding techniques and put them into practice to maximize leverage without compromising code quality and security (though many of the techniques that cycle through these circles I believe are hype/overengineering). Currently working on freelance technical AI training studies, personal projects, and in the process of obtaining CompTIA Security+ Certification.
+Computer Science graduate software developer with experience creating responsive full stack web applications that implement SQL/NoSQL databases, user authentication, cloud functions, API integrations (Stripe, Claude/Gemini, N8N) and security best practices across various cloud platforms (GCP, AWS, Supabase). 
+
+I stay up to date with the latest news on current AI assisted coding techniques and put them into practice to maximize leverage without compromising code quality and security (though many of the techniques that cycle through these circles I believe are hype/overengineering). 
+
+Currently working on freelance technical AI training studies, personal projects, and in the process of obtaining CompTIA Security+ Certification.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
@@ -10,7 +14,7 @@ Computer Science graduate software developer with experience creating responsive
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="npm" style="vertical-align:top; margin:4px">
 </p>
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ben-wh)
@@ -22,7 +26,7 @@ Computer Science graduate software developer with experience creating responsive
 Here are some projects I am proud of:
 
 ### Legal-Ease | Full-Stack Legislative Impact Analyzer (Capstone)
-<img width="1916" height="935" alt="Screenshot of the Legal-Ease application dashboard" src="https://github.com/user-attachments/assets/df367ca6-58d9-4286-9414-2a79265c1cc1" />
+<img width="1915" height="955" alt="Screenshot of the Legal-Ease application dashboard" src="https://github.com/user-attachments/assets/e2a09211-f135-4e36-8e85-2e17e22d9fdf" />
 
 This web application features a React.js frontend that interacts with a Google Firebase backend to present up to date information on federal legislation and offer integrated tools including AI analysis (powered by Gemini) to identify the potential impacts on federal law. It utilizes Cloud Functions and a NoSQL database (Firestore) to collect and cache current bill data fetched directly from CongressAPI. The frontend is optimized for user experience and is feature rich, including the ability to track and be notified about changes to relevent legislation. Try it out yourself! Feel free to use a dummy email to sign up as I have disabled email verification.
 
@@ -36,7 +40,7 @@ I created this application over the course of my senior year as my capstone proj
 ---
 
 ### ChatInsights | AI Conversation Data Visualization Tool (Hackathon)
-<img width="592" alt="Screenshot of the ChatInsights project UI" src="https://github.com/user-attachments/assets/e8a6fa8e-3c5d-4a3c-a1e3-77c32a1c2662">
+<img width="1548" height="934" alt="Screenshot of the ChatInsights project UI" src="https://github.com/user-attachments/assets/7aa98739-6974-4604-8efc-9f8cbca8ccf4" />
 
 This hackathon project takes your exported AI conversation data (from Anthropic, OpenAI, or Google) and performs detailed AI powered analysis, converting it into an entertaining and insightful experience where you can explore what you have revealed about yourself from your conversations. The application offers a basic report and a premium report. Feel free to try out with your own data or just check out the sample report on the website!
 
@@ -48,7 +52,8 @@ Bolt.ai hosted this hackathon and challenged participants to utilize their platf
 
 
 ### Celey | Scalable AI Video Generation Platform
-<img width="1916" height="935" alt="Screenshot of the Celey video generation dashboard" src="YOUR_SCREENSHOT_LINK_HERE" />
+<img width="1916" height="935" alt="Screenshot of the Celey video generation dashboard" src="https://github.com/user-attachments/assets/2e4bdc53-f715-4c5a-91ad-72cac61cb670" />
+<img width="1914" height="932" alt="Screenshot of the Celey video generation dashboard" src="https://github.com/user-attachments/assets/de877aba-c303-47f7-bdd4-91bb606f66e7" />
 
 
 Celey is a video generation platform that transforms static photos into high-fidelity, animated celebration videos to show at birthday parties, celebrations, or family group chats. The application leverages cutting-edge generative video models (supporting Runway and Luma) through a custom-built asynchronous processing pipeline designed to handle long-running AI tasks. Users can choose from a library of themed templates or provide custom prompts to dictate the AI's creative direction. To ensure a professional-grade user experience, I integrated a robust credit-based subscription system and a secure media delivery pipeline. It is still in development but you can try it out with free credits by creating an account. 
@@ -60,6 +65,7 @@ I developed this project to challenge myself with learning and building a produc
 [Live Demo](https://celey.netlify.app/)
 
 ### Split the Room | Party Game
+<img width="1853" height="924" alt="SplitTheRoom Frontpage" src="https://github.com/user-attachments/assets/819dc365-7d63-40b7-936d-b80c825f0822" />
 
 This is a fan recreation of the Jackbox Game of the same name. The game is split into two phases where players create dilemmas and then vote on each others. The objective is for players to create dilemmas that half the other players would accept and half would reject. You are rewarded more points the closer you are to 50/50. You can try it out now for free (if you have at least 2 people).
 
