@@ -1,8 +1,8 @@
 # Benjamin Hanson
 
-Computer Science graduate software developer with experience creating responsive full stack web applications that implement SQL/NoSQL databases, user authentication, cloud functions, API integrations (Stripe, Claude/Gemini, N8N) and security best practices across various cloud platforms (GCP, AWS, Supabase). 
+Computer Science graduate and Software Developer with experience creating responsive full stack web applications that implement SQL/NoSQL databases, user authentication, cloud functions, API integrations (Stripe, Claude/Gemini, N8N) and security best practices across various cloud platforms (GCP, AWS, Supabase). 
 
-I stay up to date with the latest news on current AI assisted coding techniques and put them into practice to maximize leverage without compromising code quality and security (though many of the techniques that cycle through these circles I believe are hype/overengineering). 
+I stay up to date with the latest news on current AI assisted coding techniques and put them into practice to maximize leverage without compromising code quality and security (though I believe  there is a lot of hype/overengineering going on at the moment). 
 
 Currently working on freelance technical AI training studies, personal projects, and in the process of obtaining CompTIA Security+ Certification.
 
@@ -14,7 +14,7 @@ Currently working on freelance technical AI training studies, personal projects,
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 </p>
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ben-wh)
@@ -30,9 +30,9 @@ Here are some projects I am proud of:
 
 ---
 
-This web application features a React.js frontend that interacts with a Google Firebase backend to present up to date information on federal legislation and offer integrated tools including AI analysis (powered by Gemini) to identify the potential impacts on federal law. It utilizes Cloud Functions and a NoSQL database (Firestore) to collect and cache current bill data fetched directly from CongressAPI. The frontend is optimized for user experience and is feature rich, including the ability to track and be notified about changes to relevent legislation. Try it out yourself! Feel free to use a dummy email to sign up as I have disabled email verification.
+This web application features a React.js frontend that interacts with a Google Firebase backend to present up to date information on federal legislation and offer integrated tools including AI analysis (powered by Gemini) to identify the potential impacts on federal law. It utilizes Cloud Functions and a NoSQL database (Firestore) to collect and cache current bill data fetched directly from CongressAPI. The frontend is optimized for user experience and is feature rich, including the ability to track and be notified about changes to relevant legislation. Try it out yourself! Feel free to use a dummy email to sign up as I have disabled email verification.
 
-I created this application over the course of my senior year as my capstone project. I was assigned to this project that had been submitted to the university by an external client and I was responsible for interviewing him and translating his requests into user stories and eventually working features. Much of the project was completed manually but as AI assisted IDEs like Cursor and Windsurf were rolled out that year, I took the opportunity to learn how to utilize them. This project taught me that the most impactful documentation particularly during AI assisted development is the exact format of data that is being sent and recieved by API and function calls. This was my first real full stack application so it was a learning experience start to finish, and it went through lots of trial and error to arrive at where it is today.
+I created this application over the course of my senior year as my capstone project. I was assigned to this project that had been submitted to the university by an external client and I was responsible for interviewing him and translating his requests into user stories and eventually working features. Much of the project was completed manually but as AI assisted IDEs like Cursor and Windsurf were rolled out that year, I took the opportunity to learn how to utilize them. This project taught me that the most impactful documentation particularly during AI assisted development is the exact format of data that is being sent and received by API and function calls. This was my first real full stack application so it was a learning experience start to finish, and it went through lots of trial and error to arrive at where it is today.
 
 
 **Tech Stack:** React, Node.js, Firebase (Auth & Firestore), Gemini API, Congress API
@@ -65,7 +65,7 @@ Bolt.ai hosted this hackathon and challenged participants to utilize their platf
 
 Celey is a video generation platform that transforms static photos into high-fidelity, animated celebration videos to show at birthday parties, celebrations, or family group chats. The application leverages cutting-edge generative video models (supporting Runway and Luma) through a custom-built asynchronous processing pipeline designed to handle long-running AI tasks. Users can choose from a library of themed templates or provide custom prompts to dictate the AI's creative direction. To ensure a professional-grade user experience, I integrated a robust credit-based subscription system and a secure media delivery pipeline. It is still in development but you can try it out with free credits by creating an account. 
 
-I developed this project to challenge myself with learning and building a production-ready SaaS architecture on AWS. The biggest technical challenge was moving away from simple synchronous API calls which I learned would time out before video generation completed and instead I implemented a decoupled architecture using AWS SQS to queue jobs and AWS Lambda to handle the interfacing with Video AI APIs. Videos are securely stored in S3 and served globally via CloudFront CDN. This project helped me to familiarize myself with the AWS environment and practice developing event-driven architecture.
+I developed this project with the purpose of learning how to build a production-ready SaaS architecture on AWS. The biggest technical challenge was moving away from simple synchronous API calls which I learned would time out before video generation completed and instead I implemented a decoupled architecture using AWS SQS to queue jobs and AWS Lambda to handle the interfacing with Video AI APIs. Videos are securely stored in S3 and served globally via CloudFront CDN. This project helped me to familiarize myself with the AWS environment and practice developing event-driven architecture.
 
 **Tech Stack:** Next.js, TypeScript, Supabase (Auth & Postgres), AWS (Lambda, SQS, S3, CloudFront), Stripe API
 
@@ -78,7 +78,7 @@ I developed this project to challenge myself with learning and building a produc
 
 ---
 
-This is a fan recreation of the Jackbox Game of the same name. The game is split into two phases where players create dilemmas and then vote on each others. The objective is for players to create dilemmas that half the other players would accept and half would reject. You are rewarded more points the closer you are to 50/50. You can try it out now for free (if you have at least 2 people).
+This is a fan recreation of the Jackbox Game of the same name. The game is split into two phases where players create dilemmas and then vote on each others'. The objective is for players to create dilemmas that half the other players would accept and half would reject. You are rewarded more points the closer you are to 50/50. You can try it out now for free (if you have at least 2 people).
 
 **Tech Stack:** React, Node.js, Firebase (Firestore)
 
