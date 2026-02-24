@@ -25,8 +25,10 @@ Currently working on freelance technical AI training studies, personal projects,
 
 Here are some projects I am proud of:
 
-### Legal-Ease | Full-Stack Legislative Impact Analyzer (Capstone)
+## Legal-Ease | Full-Stack Legislative Impact Analyzer (Capstone)
 <img width="1915" height="955" alt="Screenshot of the Legal-Ease application dashboard" src="https://github.com/user-attachments/assets/e2a09211-f135-4e36-8e85-2e17e22d9fdf" />
+
+---
 
 This web application features a React.js frontend that interacts with a Google Firebase backend to present up to date information on federal legislation and offer integrated tools including AI analysis (powered by Gemini) to identify the potential impacts on federal law. It utilizes Cloud Functions and a NoSQL database (Firestore) to collect and cache current bill data fetched directly from CongressAPI. The frontend is optimized for user experience and is feature rich, including the ability to track and be notified about changes to relevent legislation. Try it out yourself! Feel free to use a dummy email to sign up as I have disabled email verification.
 
@@ -39,8 +41,10 @@ I created this application over the course of my senior year as my capstone proj
 
 ---
 
-### ChatInsights | AI Conversation Data Visualization Tool (Hackathon)
+## ChatInsights | AI Conversation Data Visualization Tool (Hackathon)
 <img width="1548" height="934" alt="Screenshot of the ChatInsights project UI" src="https://github.com/user-attachments/assets/7aa98739-6974-4604-8efc-9f8cbca8ccf4" />
+
+---
 
 This hackathon project takes your exported AI conversation data (from Anthropic, OpenAI, or Google) and performs detailed AI powered analysis, converting it into an entertaining and insightful experience where you can explore what you have revealed about yourself from your conversations. The application offers a basic report and a premium report. Feel free to try out with your own data or just check out the sample report on the website!
 
@@ -50,10 +54,13 @@ Bolt.ai hosted this hackathon and challenged participants to utilize their platf
 
 [Live Demo](https://chatinsights.online/) | [Devpost](https://devpost.com/software/chatinsights) | [Source Code](https://github.com/bjmnh/ChatInsights)
 
+---
 
-### Celey | Scalable AI Video Generation Platform
+## Celey | Scalable AI Video Generation Platform
 <img width="1916" height="935" alt="Screenshot of the Celey video generation dashboard" src="https://github.com/user-attachments/assets/2e4bdc53-f715-4c5a-91ad-72cac61cb670" />
 <img width="1914" height="932" alt="Screenshot of the Celey video generation dashboard" src="https://github.com/user-attachments/assets/de877aba-c303-47f7-bdd4-91bb606f66e7" />
+
+---
 
 
 Celey is a video generation platform that transforms static photos into high-fidelity, animated celebration videos to show at birthday parties, celebrations, or family group chats. The application leverages cutting-edge generative video models (supporting Runway and Luma) through a custom-built asynchronous processing pipeline designed to handle long-running AI tasks. Users can choose from a library of themed templates or provide custom prompts to dictate the AI's creative direction. To ensure a professional-grade user experience, I integrated a robust credit-based subscription system and a secure media delivery pipeline. It is still in development but you can try it out with free credits by creating an account. 
@@ -64,8 +71,12 @@ I developed this project to challenge myself with learning and building a produc
 
 [Live Demo](https://celey.netlify.app/)
 
-### Split the Room | Party Game
-<img width="1853" height="924" alt="SplitTheRoom Frontpage" src="https://github.com/user-attachments/assets/819dc365-7d63-40b7-936d-b80c825f0822" />
+---
+
+## Split the Room | Party Game
+<img width="1890" height="923" alt="SplitTheRoom Frontpage" src="https://github.com/user-attachments/assets/b72c7131-f569-4fd4-92ea-5cfc7063d7ec" />
+
+---
 
 This is a fan recreation of the Jackbox Game of the same name. The game is split into two phases where players create dilemmas and then vote on each others. The objective is for players to create dilemmas that half the other players would accept and half would reject. You are rewarded more points the closer you are to 50/50. You can try it out now for free (if you have at least 2 people).
 
