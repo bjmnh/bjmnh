@@ -25,14 +25,14 @@ Currently working on freelance technical AI training studies, personal projects,
 
 Here are some projects I am proud of:
 
-## Legal-Ease | Full-Stack Legislative Impact Analyzer (Capstone)
+## Legal-Ease | Legislative Impact Analyzer (Capstone)
 <img width="1915" height="955" alt="Screenshot of the Legal-Ease application dashboard" src="https://github.com/user-attachments/assets/e2a09211-f135-4e36-8e85-2e17e22d9fdf" />
 
 ---
 
 This web application features a React.js frontend that interacts with a Google Firebase backend to present up to date information on federal legislation and offer integrated tools including AI analysis (powered by Gemini) to identify the potential impacts on federal law. It utilizes Cloud Functions and a NoSQL database (Firestore) to collect and cache current bill data fetched directly from CongressAPI. The frontend is optimized for user experience and is feature rich, including the ability to track and be notified about changes to relevent legislation. Try it out yourself! Feel free to use a dummy email to sign up as I have disabled email verification.
 
-I created this application over the course of my senior year as my capstone project. I was assigned to this project that had been submitted to the university by an external client and I was responsible for interviewing him and translating his requests into user stories and eventually working features. Much of the project was completed manually but as AI assisted IDEs like Cursor and Windsurf were rolled out that year, I took the opportunity to learn how to utilize them for this project. This project helped to teach me that the most important documentation during AI assisted development is the meticulous definition of the exact format of data that is being sent and recieved by API and function calls.
+I created this application over the course of my senior year as my capstone project. I was assigned to this project that had been submitted to the university by an external client and I was responsible for interviewing him and translating his requests into user stories and eventually working features. Much of the project was completed manually but as AI assisted IDEs like Cursor and Windsurf were rolled out that year, I took the opportunity to learn how to utilize them. This project taught me that the most impactful documentation particularly during AI assisted development is the exact format of data that is being sent and recieved by API and function calls. This was my first real full stack application so it was a learning experience start to finish, and it went through lots of trial and error to arrive at where it is today.
 
 
 **Tech Stack:** React, Node.js, Firebase (Auth & Firestore), Gemini API, Congress API
