@@ -56,7 +56,7 @@ Bolt.ai hosted this hackathon and challenged participants to utilize their platf
 
 ---
 
-## Celey | Scalable AI Video Generation Platform
+## Celey | AI Video Generation Platform
 <img width="1916" height="935" alt="Screenshot of the Celey video generation dashboard" src="https://github.com/user-attachments/assets/2e4bdc53-f715-4c5a-91ad-72cac61cb670" />
 <img width="1914" height="932" alt="Screenshot of the Celey video generation dashboard" src="https://github.com/user-attachments/assets/de877aba-c303-47f7-bdd4-91bb606f66e7" />
 
