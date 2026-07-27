@@ -52,7 +52,7 @@ Bolt.ai hosted this hackathon and challenged participants to utilize their platf
 
 **Tech Stack:** React, Node.js, Express, Supabase, TailwindCSS, Gemini API, Stripe API
 
-[Live Demo](https://chatinsights.online/) | [Devpost](https://devpost.com/software/chatinsights) | [Source Code](https://github.com/bjmnh/ChatInsights)
+[Live Demo](https://chatinsightson.netlify.app/) | [Devpost](https://devpost.com/software/chatinsights) | [Source Code](https://github.com/bjmnh/ChatInsights)
 
 ---
 
